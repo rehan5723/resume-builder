@@ -1,7 +1,7 @@
 
 # Resume Builder Web App (Frontend & UI/UX Prototype)
 
-LINK TO THE LIVE PROJECT - https://resume-builder-eta-tan.vercel.app/login
+LINK TO THE LIVE PROJECT - https://resume-builder-eta-tan.vercel.app/
 
 
 
